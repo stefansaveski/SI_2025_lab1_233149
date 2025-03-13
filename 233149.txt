@@ -1,0 +1,25 @@
+git clone https://github.com/stefansaveski/SI_2025_lab1_233149
+Created readme.md
+git commit -a -m "Initial Commit"
+git push
+Created java file
+git commit -a -m "Added starter code"
+git push
+Created project, issues and branches
+git fetch origin
+git switch 2-find-all-completed-tasks
+Fixed find tasks logic
+git commit -a -m "Added completed tasks logic"
+git push
+Made pull request and merged branch with master on GitHub
+git switch 5-filter-tasks-by-category
+git commit -a -m "Implement task filtering by category in TaskManager"
+git push
+Made pull request and merged branch into master
+git switch 8-mark-a-task-as-completed-by-name
+git commit -a -m "Implement task completion logic in TaskManager"
+git push
+Made pull request and merged branch into master
+Added 233149.txt (Documentation)
+Added logs.txt (git commands)
+Commited and pushed theese changes.
